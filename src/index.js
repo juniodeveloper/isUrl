@@ -1,7 +1,7 @@
 const isUrl = (url) => {
   
   if (typeof url !== 'string') {
-    throw new Error('')
+    throw new Error("url not informed")
   }
   
   var urlPattern = new RegExp(
