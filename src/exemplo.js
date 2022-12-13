@@ -1,8 +1,4 @@
-# isUrl
-
-```javascript
-
-const isUrl = require("isUrl");
+const isUrl = require("./index.js");
 
 const myUrls = [
   "https://google.com",
@@ -19,10 +15,3 @@ myUrls.forEach((url) => {
     console.log(url);
   }
 });
-
-
-}
-
-createPayment()
-
-```
