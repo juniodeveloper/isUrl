@@ -1,4 +1,4 @@
-# isUrl
+# es_valid_url
 
 ```javascript
 
@@ -18,11 +18,6 @@ myUrls.forEach((url) => {
     // show is url
     console.log(url);
   }
-});
-
-
-}
-
-createPayment()
+})
 
 ```
