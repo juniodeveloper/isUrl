@@ -1,5 +1,5 @@
 {
-  "name": "isurl",
+  "name": "es_valid_url",
   "version": "1.0.0",
   "description": "",
   "main": "src/index.js",

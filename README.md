@@ -2,7 +2,7 @@
 
 ```javascript
 
-const isUrl = require("isUrl");
+const isUrl = require("es_valid_url");
 
 const myUrls = [
   "https://google.com",
