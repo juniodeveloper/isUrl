@@ -6,7 +6,7 @@ const myUrls = [
   "google.com",
   "google.com/path",
   "google.com?id=1",
-  "google...com"
+  "google...com",
 ];
 
 myUrls.forEach((url) => {
